@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamVojtus
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning C# and React
 
 
 <!---
