@@ -2,7 +2,7 @@
 
 ### Fullstack & Embedded Systems Developer
 
-- 🔭 I'm currently working on **Liquid Rocket Engine - Punťo
+- 🔭 I'm currently working on **Liquid Rocket Engine - Punťo &
 Weather Application**
 
 - 🌱 I'm currently learning **Advanced Embedded Systems, MQTT Architecture & Digital Signal Processing, Aerospace Electronic Design, Control Systems (GoTo Mounts), .NET Architectures**
