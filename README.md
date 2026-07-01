@@ -8,7 +8,7 @@ Weather Application**
 - 🌱 I'm currently learning **Advanced Embedded Systems, MQTT Architecture & Digital Signal Processing, Aerospace Electronic Design, Control Systems (GoTo Mounts), .NET Architectures**
 
 - 💬 Ask me about **Designing mission-critical ABORT sequences for hardware control.
-How I managed to bring a half-broken Dipole antenna to life to capture my first space radio signals.**
+Or how I managed to bring a half-broken Dipole antenna to life to capture my first space radio signals.**
 
 - 📫 How to reach me **adam.vojtus@proton.me**
 
