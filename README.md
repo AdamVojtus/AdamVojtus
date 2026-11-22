@@ -11,7 +11,7 @@
 
 - 🔎Connect with me https://www.linkedin.com/in/adam-vojtus/](https://www.linkedin.com/in/adam-vojtus/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UtefoSt5y9HTALVCH1P1b6RMlk4OVdO9/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1UtefoSt5y9HTALVCH1P1b6RMlk4OVdO9/view?usp=sharing
 
 - ⚡ Fun fact **Name of my LRE project comes from my crazed dog, Punťo.**
 
