@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adam.vojtus@proton.me**
 
-- - 🔎Connect with me [https://www.linkedin.com/in/adam-vojtus/](https://www.linkedin.com/in/adam-vojtus/)
+- 🔎Connect with me [https://www.linkedin.com/in/adam-vojtus/](https://www.linkedin.com/in/adam-vojtus/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H_XyPUNk4W3cXSXz0PdeXto0qzbmcob4/view?usp=sharing](https://drive.google.com/file/d/1H_XyPUNk4W3cXSXz0PdeXto0qzbmcob4/view?usp=sharing)
 
