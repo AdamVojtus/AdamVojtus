@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Vojtuš</h1>
 <h3 align="center">Curious Embedded Systems Developer</h3>
 
-- 🔭 I’m currently working on **Liquid Rocket Engine - Punťo**
+- 🔭 I’m currently working on **Liquid Rocket Engine - Punťo & Portable Meteorological Station - Jetstream**
 
 - 🌱 I’m currently learning **Embedded Systems, Aerospace Electronic Design, Control Systems**
 
