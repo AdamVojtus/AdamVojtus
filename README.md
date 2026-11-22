@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Vojtuš</h1>
-<h3 align="center">A Curious Embedded Systems Developer</h3>
+<h3 align="center">Curious Embedded Systems Developer</h3>
 
 - 🔭 I’m currently working on **Liquid Rocket Engine - Punťo**
 
